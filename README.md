@@ -1,2 +1,3 @@
-# Teste_Selenium
-Projeto Curso Selenium
+# Projeto Curso Selenium
+Projeto Desenvolvido durante curso de Selenium
+
