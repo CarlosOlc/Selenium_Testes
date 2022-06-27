@@ -12,3 +12,7 @@ Projeto Desenvolvido durante curso de Selenium
 - Organizar códigos tornando-os mais legíveis, reusáveis e fáceis de manter
 - Estratégias para sincronizar os testes com o fluxo da aplicação
 - Estratégias para realizar o gerenciamento das massas de dados utilizadas nos testes
+
+
+
+https://user-images.githubusercontent.com/57117007/176008595-50c32fcb-52a3-48e7-bc04-5cdc7bd985e7.png
